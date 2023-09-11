@@ -111,7 +111,7 @@ input {
   font-weight: bold;
   margin-bottom: 5px;
   font-size: 0.9rem;
-  color: #AE8A8D;
+  color: #fff;
   font-family: 'Dancing Script', cursive;
 
 }
@@ -139,7 +139,7 @@ input {
   border: none;
   flex-grow: 1;
   background-color:transparent;
-  color: #000;
+  color: #fff;
   font-size: 1rem;
 }
 .send-message > input:placeholder {
